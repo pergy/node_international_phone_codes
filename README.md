@@ -14,7 +14,9 @@ Declare the package in your application
 const phoneCodes = require('node_international_phone_codes');
 ```
 
-There are four function in this package. You can use this function immidately after declaring the packages.
+
+There are four functions in this package. You can use this function immediately after declaring the packages. These are example of functions that available within this package:
+
 1. Get all phone codes using this codes:
 ```
 phoneCodes.getAllPhoneCode();
@@ -33,7 +35,7 @@ phoneCodes.findPhoneCodeByCountryCode('ID');
 ```
 
 ## Running the tests
-You can try it and see the results in console.
+You can try it and see the result in the console.
 ```
 console.log(JSON.stringify(phoneCodes.getAllPhoneCode()));
 ```
