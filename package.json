@@ -1,6 +1,6 @@
 {
   "name": "node_international_phone_codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This repository have list of international phone codes",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/vai21/node_international_phone_codes#readme",
   "dependencies": {
-    
+
   }
 }

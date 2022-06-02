@@ -17,25 +17,25 @@ const phoneCodes = require('node_international_phone_codes');
 There are four function in this package. You can use this function immidately after declaring the packages.
 1. Get all phone codes using this codes:
 ```
-phoneCode.getAllPhoneCode();
+phoneCodes.getAllPhoneCode();
 ```
 2. Find Phone Code By Code example:
 ```
-phoneCode.findPhoneCodeByCode('+62');
+phoneCodes.findPhoneCodeByCode('+62');
 ```
 3. Find Phone Code By Country Name example:
 ```
-phoneCode.findPhoneCodeByCountryName('Indonesia');
+phoneCodes.findPhoneCodeByCountryName('Indonesia');
 ```
 4. Find Phone Code By Country ID example:
 ```
-phoneCode.findPhoneCodeByCountryCode('ID');
+phoneCodes.findPhoneCodeByCountryCode('ID');
 ```
 
 ## Running the tests
 You can try it and see the results in console.
 ```
-console.log(JSON.stringify(phoneCode.getAllPhoneCode()));
+console.log(JSON.stringify(phoneCodes.getAllPhoneCode()));
 ```
 
 ## Authors
