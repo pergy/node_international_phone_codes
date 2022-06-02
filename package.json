@@ -1,0 +1,27 @@
+{
+  "name": "node_international_phone_codes",
+  "version": "1.0.0",
+  "description": "This repository have list of international phone codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vai21/node_international_phone_codes.git"
+  },
+  "keywords": [
+    "midtrans",
+    "SNAP",
+    "nodejs"
+  ],
+  "author": "Faisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vai21/node_international_phone_codes/issues"
+  },
+  "homepage": "https://github.com/vai21/node_international_phone_codes#readme",
+  "dependencies": {
+    
+  }
+}
