@@ -1,6 +1,6 @@
 {
-  "name": "node_international_phone_codes",
-  "version": "1.0.2",
+  "name": "@pergy/node_international_phone_codes",
+  "version": "1.0.3",
   "description": "This repository have list of international phone codes",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vai21/node_international_phone_codes.git"
+    "url": "git+https://github.com/pergy/node_international_phone_codes.git"
   },
   "keywords": [
     "midtrans",
@@ -18,9 +18,9 @@
   "author": "Faisal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vai21/node_international_phone_codes/issues"
+    "url": "https://github.com/pergy/node_international_phone_codes/issues"
   },
-  "homepage": "https://github.com/vai21/node_international_phone_codes#readme",
+  "homepage": "https://github.com/pergy/node_international_phone_codes#readme",
   "dependencies": {
 
   }
