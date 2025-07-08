@@ -16,8 +16,6 @@ const findPhoneCodeByCountryCode = function(code) {
     return phoneCodes.find(el => el.code === code);
 }
 
-console.log(JSON.stringify(findPhoneCodeByCountryCode('ZW')));
-
 module.exports = {
     getAllPhoneCode,
     findPhoneCodeByCode,
